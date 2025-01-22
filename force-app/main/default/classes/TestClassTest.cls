@@ -5,7 +5,7 @@ public class TestClassTest {
         // Create an instance of TestClass
         TestClass testInstance = new TestClass();
         
-        // Verify that the instance is not null
+        // Verify that the instance is not null.
         System.assertNotEquals(testInstance, null, 'TestClass instance should not be null');
         
         // Optionally, you can check the debug logs to ensure the constructor ran
