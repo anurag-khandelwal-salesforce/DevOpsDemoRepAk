@@ -2,7 +2,7 @@ name: Deploy to Anurag Devops dev environment on push to main
 
 on:
   push:
-    branches: [ Test-Branch-1 ]
+    branches: [ DevOpsBranch ]
     paths:
       - 'force-app/**'
 
