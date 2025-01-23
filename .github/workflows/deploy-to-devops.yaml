@@ -7,7 +7,7 @@ on:
       - 'force-app/**'
 
 jobs:
-  Deploy-to-sffnoobs-environment:
+  Deploy-to-devops-environment:
       runs-on: ubuntu-latest
       environment: devopsDev
       steps:
